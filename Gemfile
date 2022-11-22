@@ -66,3 +66,4 @@ gem 'rails-controller-testing', group: [ :test ]
 
 # Custom gem
 gem "simple_form", github: "heartcombo/simple_form"
+gem "faker"
